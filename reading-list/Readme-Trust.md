@@ -1,1 +1,8 @@
-Book - [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/), by Kush Varshney. 
+## Books and Tutorials
+* [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/), by Kush Varshney, 2022.
+* Tutorial on [Evaluating and Rating AI Systems for Trust and Its Application to Finance](https://sites.google.com/view/raasta2024icaif), Kausik Lakkaraju, Rachneet Kaur, Sunandita Patra, Biplav Srivastava, 5th ACM International Conference on AI in Finance (ICAIF-24), New York, USA, Nov 2024.
+* Tutorial on [Trusting AI by Testing and Rating Third Party Offerings](https://sites.google.com/view/ijcai2020tut-aitrust/home), in conjunction with 29th International Joint Conference on Artificial Intelligence (IJCAI 2020), Biplav Srivastava, Francesca Rossi, Yokohoma, Japan, Jan 2021.
+
+## Papers
+* Joy Buolamwini, Timnit Gebru. [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a.html). In Sorelle A. Friedler, Christo Wilson, editors, Conference on Fairness, Accountability and Transparency, FAT 2018, 23-24 February 2018, New York, NY, USA. Volume 81 of Proceedings of Machine Learning Research, pages 77-91, PMLR, 2018. [Discusses bias in AI doing face recognition]
+* Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai. 2016. [Man is to computer programmer as woman is to homemaker? debiasing word embeddings](https://proceedings.neurips.cc/paper_files/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf). In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16). Curran Associates Inc., Red Hook, NY, USA, 4356–4364. [Discusses bias in NLP/ word embeddings]
