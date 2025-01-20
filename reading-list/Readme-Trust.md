@@ -6,3 +6,11 @@
 ## Papers
 * Joy Buolamwini, Timnit Gebru. [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a.html). In Sorelle A. Friedler, Christo Wilson, editors, Conference on Fairness, Accountability and Transparency, FAT 2018, 23-24 February 2018, New York, NY, USA. Volume 81 of Proceedings of Machine Learning Research, pages 77-91, PMLR, 2018. [Discusses bias in AI doing face recognition]
 * Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai. 2016. [Man is to computer programmer as woman is to homemaker? debiasing word embeddings](https://proceedings.neurips.cc/paper_files/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf). In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16). Curran Associates Inc., Red Hook, NY, USA, 4356–4364. [Discusses bias in NLP/ word embeddings]
+* Tim Miller. 2023. [Explainable AI is Dead, Long Live Explainable AI! Hypothesis-driven Decision Support using Evaluative AI](https://dl.acm.org/doi/10.1145/3593013.3594001). In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23). Association for Computing Machinery, New York, NY, USA, 333–342. [Argues why explainability should support evidence for all interpretations, and let the user decide]
+
+## Domain Specific 
+* **Elections**: LLM-based AI were missing in action for 2024
+  > - See PROMISE team's work on [AI and elections](https://sites.google.com/site/biplavsrivastava/research-1/ai-and-elections), 2021- 
+  > - OpenAI's [avoidance of the challenge for 2024 elections around the world](https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections/)
+  > - Beyond ChatGPT, others were not better. See Rozado, D. 2024. [The Political Preferences of LLMs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306621), arXiv:2402.01789.
+
