@@ -13,4 +13,7 @@
   > - See PROMISE team's work on [AI and elections](https://sites.google.com/site/biplavsrivastava/research-1/ai-and-elections), 2021- 
   > - OpenAI's [avoidance of the challenge for 2024 elections around the world](https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections/)
   > - Beyond ChatGPT, others were not better. See Rozado, D. 2024. [The Political Preferences of LLMs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306621), arXiv:2402.01789.
+  > - Understanding and predicting elections, [IISER, Pune](https://electioninsights.in/)
+  >> - Key insights and tools to [play with results](https://electioninsights.in/insights.html)
+  >> - Details are in [papers](https://electioninsights.in/publications.html). Suggest starting from [news article](http://sites.iiserpune.ac.in/~santh/thehindu_elections_mss.png) (Jan 2025)
 
