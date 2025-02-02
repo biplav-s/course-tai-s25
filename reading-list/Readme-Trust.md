@@ -1,3 +1,8 @@
+<em> **See also** : 
+readings in [Large Language Models (LLMs)](https://github.com/biplav-s/course-tai-s25/edit/main/reading-list/Readme-LLMs.md) and [AI and NLP](https://github.com/biplav-s/course-tai-s25/edit/main/reading-list/Readme-AI-NLP.md) </em>
+
+---
+
 ## Books and Tutorials
 * [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/), by Kush Varshney, 2022.
 * Tutorial on [Evaluating and Rating AI Systems for Trust and Its Application to Finance](https://sites.google.com/view/raasta2024icaif), Kausik Lakkaraju, Rachneet Kaur, Sunandita Patra, Biplav Srivastava, 5th ACM International Conference on AI in Finance (ICAIF-24), New York, USA, Nov 2024.
