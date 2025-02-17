@@ -32,9 +32,12 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
 > 2. Weidinger, Laura, et al., [Taxonomy of Risks posed by Language Models](https://dl.acm.org/doi/10.1145/3531146.3533088), 2022 ACM Conference on Fairness, Accountability, and Transparency.
 > 3. [Mission: Impossible Language Models](https://aclanthology.org/2024.acl-long.787/), Julie Kallini, Isabel Papadimitriou, et al, ACL 2024. _Creates impossible languages and sees how GPT-2 performs on them. Implication for grammards and language learning._
 
+
+4. LLMs and Hallucination
+> 1. [GPTs and Hallucination- Why do large language models hallucinate?](https://cacm.acm.org/practice/gpts-and-hallucination/),  Jim Waldo and Soline Boussard, Dec 2024. _Explains the concept of truth in philosophy, how we express in languages, LLMs, and why their output will always have made-up content (hallucination)_.
 ---
 
-4. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
+5. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
 >  a. About the technology
 >  > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
  > > 2. [ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) [Yann LeCun, Jan 2023]
@@ -65,7 +68,7 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
 
 ---
 
-5. [Llama](https://www.llama.com/), from Meta - open weight (source) LLM. 
+6. [Llama](https://www.llama.com/), from Meta - open weight (source) LLM. 
  > a. [Forbes article](https://finance.yahoo.com/news/mark-zuckerberg-went-meta-major-103000635.html) on strategy of open sourcing, Nov 2024
  > 
  > b. [Llama 3 blog](https://ai.meta.com/blog/meta-llama-3/) - overall description.
@@ -73,6 +76,6 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
  > c. [Comparison of Llama3 with Llama2](https://www.apps4rent.com/blog/llama-3-vs-llama-2/), by Apps2Rent
 
 ---
-6. [DeepSeek R1](https://www.deepseek.com/), from DeepSeek - open weight (source) LLM. 
+7. [DeepSeek R1](https://www.deepseek.com/), from DeepSeek - open weight (source) LLM. 
  > a. A point-of-view [(POV)](https://drive.google.com/file/d/1ErR1xT7ftvmHiUyYrdUbjyd4qCK_FxKX/view?usp=sharing) from [AI for Society](https://ai4society.github.io/) (Feb 2, 2025). 
 
