@@ -38,6 +38,9 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
 > > 1. [GPTs and Hallucination- Why do large language models hallucinate?](https://cacm.acm.org/practice/gpts-and-hallucination/),  Jim Waldo and Soline Boussard, Dec 2024. _Explains the concept of truth in philosophy, how we express in languages, LLMs, and why their output will always have made-up content (hallucination)_.
 
 > b. Prompting resources
+> > 1. [A guide with description about prompting techniques](https://www.promptingguide.ai/introduction)
+> > 2. [Promptify](https://github.com/promptslab/Promptify) - a Python library to automate creating prompts and getting structured results
+> > 3. [AISuite](https://github.com/andrewyng/aisuite) - a Python library providing interface to multiple LLMs for prompting and getting responses
    
 ---
 
