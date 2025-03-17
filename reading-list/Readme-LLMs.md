@@ -33,8 +33,12 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
 > 3. [Mission: Impossible Language Models](https://aclanthology.org/2024.acl-long.787/), Julie Kallini, Isabel Papadimitriou, et al, ACL 2024. _Creates impossible languages and sees how GPT-2 performs on them. Implication for grammards and language learning._
 
 
-4. LLMs and Hallucination
-> 1. [GPTs and Hallucination- Why do large language models hallucinate?](https://cacm.acm.org/practice/gpts-and-hallucination/),  Jim Waldo and Soline Boussard, Dec 2024. _Explains the concept of truth in philosophy, how we express in languages, LLMs, and why their output will always have made-up content (hallucination)_.
+4. LLMs and Various Technical Aspects
+> a. Hallucination
+> > 1. [GPTs and Hallucination- Why do large language models hallucinate?](https://cacm.acm.org/practice/gpts-and-hallucination/),  Jim Waldo and Soline Boussard, Dec 2024. _Explains the concept of truth in philosophy, how we express in languages, LLMs, and why their output will always have made-up content (hallucination)_.
+
+> b. Prompting resources
+   
 ---
 
 5. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
