@@ -1,5 +1,5 @@
 <em> **See also** : 
-readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/reading-list/Readme-LLMs.md) and [AI Trust](https://github.com/biplav-s/course-tai-s25/blob/main/reading-list/Readme-Trust.md) </em>
+readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/reading-list/Readme-AI-NLP.md) and [AI Trust](https://github.com/biplav-s/course-tai-s25/blob/main/reading-list/Readme-Trust.md) </em>
 
 ---
 
