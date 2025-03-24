@@ -7,7 +7,7 @@ readings in [Large Language Models (LLMs)](https://github.com/biplav-s/course-ta
 * [Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/), by Kush Varshney, 2022.
 * Tutorial on [Evaluating and Rating AI Systems for Trust and Its Application to Finance](https://sites.google.com/view/raasta2024icaif), Kausik Lakkaraju, Rachneet Kaur, Sunandita Patra, Biplav Srivastava, 5th ACM International Conference on AI in Finance (ICAIF-24), New York, USA, Nov 2024.
 * Tutorial on [Trusting AI by Testing and Rating Third Party Offerings](https://sites.google.com/view/ijcai2020tut-aitrust/home), in conjunction with 29th International Joint Conference on Artificial Intelligence (IJCAI 2020), Biplav Srivastava, Francesca Rossi, Yokohoma, Japan, Jan 2021.
-* NIST Taxonomy and Terminology of [Attacks and Mitigations of Adverserial Machine Learning](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf), March 2025
+* NIST Taxonomy and Terminology of [Attacks and Mitigations of Adversarial Machine Learning](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf), March 2025
 
 ## Papers
 * Sahil Verma and Julia Rubin. 2018. [Fairness definitions explained](https://fairware.cs.umass.edu/papers/Verma.pdf). In Proceedings of the International Workshop on Software Fairness (FairWare '18). Association for Computing Machinery, New York, NY, USA, 1–7. [**Explains fairness definitions using German-credit data**].
