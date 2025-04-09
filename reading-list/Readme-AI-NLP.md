@@ -6,6 +6,7 @@ readings in [Large Language Models (LLMs)](https://github.com/biplav-s/course-ta
 1. Introduction to AI concepts
 > 1. [Understanding AI and Cognitive Systems - a Perspective on Its Potential and Challenges While Putting Them to Work with People](https://journal.accsindia.org/show.article.php?id=81), AI Cognitive Systems, Issue 4, Vol 2- Issue 1 (2018)
 > 2. [A Perspectival Mirror of the Elephant: Investigating language bias on Google, ChatGPT, YouTube, and Wikipedia](https://cacm.acm.org/practice/a-perspectival-mirror-of-the-elephant/), Communications of the ACM, July 2024.
+> 3. [Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674), April 2025. _Describes systematic experimentation to evaluate performance of LLMs and rule-based Eliza on the 3-party Turing test_. 
 
 2. Tools and libraries for processing text
 > 1. [NLTK](https://www.nltk.org/) -  a large library of NLP methods.
