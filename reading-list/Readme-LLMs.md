@@ -71,7 +71,7 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
 
  > c. Case Studies and Errors of ChatGPT/ language models
  > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
- > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failure) [A GitHub of mistakes]
+ > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failures) [A GitHub of mistakes]
  > 3. [Case studies with LLMs](https://github.com/ai4society/LLM-CaseStudies) - [Finance](https://github.com/ai4society/LLM-CaseStudies/tree/main/Finance)  [Detailed examples in industries]
 
 ---
