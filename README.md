@@ -13,6 +13,7 @@ Spring 2025, [Course Website](https://sites.google.com/site/biplavsrivastava/tea
 
 ## Notable student projects that students agreed to make public
 1. [Predictive Classification of Aircraft Approach Behaviors](https://github.com/osterholt/PCAAB), by Cam Osterholt (2025)
+2. [ReviewTrust: Scoring Trust in Online Product Reviews](https://github.com/adeldghimfr/Project_Review_Trust_Score), by Adel Dghim (2025)
    
 
 ## A few notable student projects from previous courses that students agreed to make public
