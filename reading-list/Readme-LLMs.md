@@ -36,8 +36,12 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
 4. LLMs and Various Technical Aspects
 > a. Hallucination
 > > 1. [GPTs and Hallucination- Why do large language models hallucinate?](https://cacm.acm.org/practice/gpts-and-hallucination/),  Jim Waldo and Soline Boussard, Dec 2024. _Explains the concept of truth in philosophy, how we express in languages, LLMs, and why their output will always have made-up content (hallucination)_.
+> > 2. [The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations](https://aclanthology.org/2023.emnlp-main.155/), EMNLP 2023. _Describes hallucination types_.
 
-> b. Prompting resources
+> b. Synthetic data and impact on LLMs
+> > 1. [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y), Nature, 2024. _Explains model collapse when GenAI's data is used for further training_.
+
+> c. Prompting resources
 > > 1. [A guide with description about prompting techniques](https://www.promptingguide.ai/introduction)
 > > 2. [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), June 2024 (revised Feb 2025). _A comprehensive survey of prompting approaches across LLM types_.
 > > 3. [Promptify](https://github.com/promptslab/Promptify) - a Python library to automate creating prompts and getting structured results
