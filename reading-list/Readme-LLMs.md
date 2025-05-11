@@ -41,7 +41,12 @@ readings in [AI and NLP](https://github.com/biplav-s/course-tai-s25/blob/main/re
 > b. Synthetic data and impact on LLMs
 > > 1. [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y), Nature, 2024. _Explains model collapse when GenAI's data is used for further training_.
 
-> c. Prompting resources
+
+> c. LLMs and reasoning
+> > 1. [Can Large Language Models Reason and Plan?](https://arxiv.org/html/2403.04121v1), S. Kambhampati 2024. _Explains LLMs properties with respect to reasoning and planning_.
+> > 2. 
+
+> d. Prompting resources
 > > 1. [A guide with description about prompting techniques](https://www.promptingguide.ai/introduction)
 > > 2. [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608), June 2024 (revised Feb 2025). _A comprehensive survey of prompting approaches across LLM types_.
 > > 3. [Promptify](https://github.com/promptslab/Promptify) - a Python library to automate creating prompts and getting structured results
