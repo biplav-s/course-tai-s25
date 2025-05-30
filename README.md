@@ -11,12 +11,22 @@ Spring 2025, [Course Website](https://sites.google.com/site/biplavsrivastava/tea
 4. Spring 2021, CSCE 590, Github - [Data to Decisions - Intro to AI](https://github.com/biplav-s/course-d2d-ai)
 
 
-## Notable student projects that students agreed to make public
+# Notable moments
+
+## Impact of learnt material
+Lessons used by student in a [new collaborative initiative](https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2025/jamai_study_platform_students.php) [April 2025]
+```
+“I’m taking a Trusted AI class that addresses high level concerns to be aware 
+of when building an application like this,” says Grove. “AI can be unpredictable, 
+and a lot goes into making sure a site is reliable from a legal standpoint.”
+```
+
+## Student projects that students agreed to make public
 1. [Predictive Classification of Aircraft Approach Behaviors](https://github.com/osterholt/PCAAB), by Cam Osterholt (2025)
 2. [ReviewTrust: Scoring Trust in Online Product Reviews](https://github.com/adeldghimfr/Project_Review_Trust_Score), by Adel Dghim (2025)
    
 
-## A few notable student projects from previous courses that students agreed to make public
+## Student projects from previous courses that students agreed to make public
 1. [Braille Optical Character Recognition, Within a Chatbot](https://github.com/MatthewADH/BrailleOpticalCharacterRecognition), by Matthew Duffell-Hoffman (2023)
 2. [Video Game Recommendation, Within a Chatbot](https://github.com/mh1300/Game-Recommendation-Automation-Machine), by Matthew Hughes  (2023)
 3. [Water Quality Decision, Within a Chatbot](https://github.com/vnagpal25/Water-Quality-Chatbot), by Vansh Nagpal  (2023)
